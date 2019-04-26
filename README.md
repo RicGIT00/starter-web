@@ -23,6 +23,7 @@ file system.
 ##How to Contribute
 
 You will be contributing by doing this GIT course.
+Please fork this repo and then issue Pull req for review.
 
 ###Copyright
 
