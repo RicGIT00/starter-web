@@ -27,4 +27,4 @@ Please fork this repo and then issue Pull req for review.
 
 ###Copyright
 
-2k19 Git training
+2k19 Git training All Rights Reserved.
