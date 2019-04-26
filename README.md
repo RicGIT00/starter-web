@@ -23,3 +23,7 @@ file system.
 ##How to Contribute
 
 You will be contributing by doing this GIT course.
+
+###Copyright
+
+2k19 Git training
